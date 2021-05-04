@@ -1,7 +1,6 @@
 # Forkify
 A vanila Javascript application as a final project for JS course of Jonas Schmedtman.
 
-Link to the course: https://www.udemy.com/course/the-complete-javascript-course/
 
 # Demo
 
